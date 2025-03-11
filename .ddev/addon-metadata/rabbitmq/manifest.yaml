@@ -1,0 +1,12 @@
+name: rabbitmq
+repository: ochorocho/ddev-rabbitmq
+version: 0.0.5
+install_date: "2025-03-10T20:41:14+02:00"
+project_files:
+    - docker-compose.rabbitmq.yaml
+    - config.rabbitmq.yaml
+    - commands/rabbitmq/
+    - rabbitmq/config.yaml
+    - rabbitmq/schema.json
+global_files: []
+removal_actions: []
